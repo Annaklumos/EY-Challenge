@@ -1,0 +1,26 @@
+name: EYChall
+channels:
+  - miniconda
+  - anaconda
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - conda
+  - python=3.9
+  - seaborn
+  - sqlalchemy
+  - git
+  - pandas
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - scikit-learn
+  - pip
+  - jupyter_contrib_nbextensions
+  - pystac
+  - fsspec
+  - xarray
+  - statsmodels
+  - tensorflow
+prefix: /home/annaklumos/miniconda3
