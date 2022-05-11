@@ -4,7 +4,7 @@ Résumé du challenge : https://challenge.ey.com/challenges/level-3-frog-countin
 
 # Idées proposées
 
-Faire une régression linéaire à effet mixtes () en choississant quelles facteurs seront à effet fixe ou aléatoire.
+Faire une régression linéaire à effet mixtes (https://www.tensorflow.org/probability/examples/Linear_Mixed_Effects_Models) en choississant quelles facteurs seront à effet fixe ou aléatoire.
 
 ## Liste des variables de la base de donnée TerraClimate 
 
